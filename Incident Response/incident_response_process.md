@@ -2,49 +2,23 @@
 
 When an event is determined to be an incident this process should be followed.
 
-- Document Version
-- Document Controller
+| Document Version | Status    | Published Date | Last Reviewed | Next Review |
+| ---------------- | --------- | -------------- | ------------- | ----------- |
+| 0.1.0            | Published | 2022/01/11     | 2022/01/11    | N/A         |
 
-## Document Information
+## Point of Contact Table
 
-|                     |            |
-| :------------------ | :--------- |
-| Document Version    | 0.0.1      |
-| Document Controller | TBA        |
-| Document Creator    | TBA        |
-| Status              | TBA        |
-| Drafted Date        | 00/00/0000 |
-| Published Date      | 00/00/0000 |
-| Last Reviewed       | 00/00/0000 |
-| Next Review         | 00/00/0000 |
+|                       |                                             |
+| --------------------- | ------------------------------------------- |
+| Document Owner        | [RackReaver](https://github.com/RackReaver) |
+| Document Controller   | [RackReaver](https://github.com/RackReaver) |
+| Document Creator      | [RackReaver](https://github.com/RackReaver) |
+| Subject Matter Expert | [RackReaver](https://github.com/RackReaver) |
 
-| Date       | Author   | Version | Approver | Change Description |
-| :--------- | :------- | :-----: | :------- | :----------------- |
-| xx/xx/xxxx | John Doe | v0.0.1  |          | Document Created   |
+## Table of Contents
 
-- Last Reviewed
-- Next Review
-
-| Document Version | Status      | Published Date | Last Reviewed | Next Review |
-| ---------------- | ----------- | -------------- | ------------- | ----------- |
-| 0.0.1            | In Progress | N/A            | N/A           | N/A         |
-
-```
-{
-    "document_version": "0.0.1",
-    "originating_department": "Information Security",
-    "document_owner": "TBA",
-    "document_controller": "TBA",
-    "document_creator": "TBA",
-    "subject_matter_expert": "TBA",
-    "status": "In Progress",
-    "drafted_date": "TBA",
-    "approved_date": "TBA",
-    "published_date": "TBA",
-    "last_reviewed": "TBA",
-    "next_review": "TBA"
-}
-```
+- [Incident Naming Convention](#incident-naming-convention)
+- [Starting an Incident Steps](#starting-an-incident-steps)
 
 ## Incident Naming Convention
 
@@ -59,3 +33,20 @@ YYYYMMDD-X
  |
  +-- [YYYY] Year
 ```
+
+## Starting an Incident Steps
+
+1. Create a PRIVATE slack channel using the [incident naming convention](#incident-naming-convention).
+
+2. Paste the following into the slack channel and pin it:
+
+   > :warning: THIS IS STRICTLY CONFIDENTIAL AND SHOULD NOT BE SHARED OUTSIDE THIS CSIRT TEAM :warning:
+
+3. Generate a folder using the [incident naming convention](#incident-naming-convention) inside of the incidents folder
+   .
+
+<!-- TODO: Add Incident Log Template to repo and link it below -->
+
+4. Add the Incident Log Template to the new incident folder
+
+5. Link new Incident Log to the slack channel and pin it
