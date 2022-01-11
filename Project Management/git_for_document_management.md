@@ -17,12 +17,12 @@ How to manage documents using git (and GitHub which is my remote repo of choice)
 
 ## Table of Contents
 
-- [Making commits](#making-commits)
+- [Creating commits](#creating-commits)
   - [Example commits](#example-commits)
 - [Creating and managing branches](#creating-and-managing-branches)
   - [Example branches](#example-branches)
 
-## Making commits
+## Creating commits
 
 This becomes difficult because all of the standards (i.e. conventional commits) revolves around software development and not document management. A new standard had to be created to allow for documents and are layed out as follows:
 
