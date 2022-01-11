@@ -19,6 +19,8 @@ How to manage documents using git (and GitHub which is my remote repo of choice)
 
 - [Making commits](#making-commits)
   - [Example commits](#example-commits)
+- [Creating and managing branches](#creating-and-managing-branches)
+  - [Example branches](#example-branches)
 
 ## Making commits
 
@@ -39,3 +41,15 @@ This becomes difficult because all of the standards (i.e. conventional commits) 
 - update: Change document owner to john doe
 - style: Change location of table of contents
 - chore: Move incident response plan to incident response folder
+
+## Creating and managing branches
+
+Branches follow the same methodology that is used in software development. If a document needs to be added or altered a branch is created and all changes are made before making a pull request to update the main production documents.
+
+### Example branches
+
+- new/incident-response-process
+- add/add-point-of-contacts-to-incident-response-process
+- update/change-incident-response-process-document-owner
+- style/change-incident-response-process-table-of-contents-location
+- chore/move-incident-response-plan-to-incident-response-folder
