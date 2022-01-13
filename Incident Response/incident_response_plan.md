@@ -33,7 +33,7 @@ The {{ COMPANY NAME }} Information Security incident Response Plan ("Incident Re
 
 ## Outline
 
-- Introduction
+- ~~Introduction~~
 - ~~Contact Information~~
 - Roles and Responsibilities
 - Cyber Security Incident Handling Team (IHT)
