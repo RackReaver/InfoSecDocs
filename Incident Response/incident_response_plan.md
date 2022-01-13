@@ -8,10 +8,33 @@ COMPANY_NAME=""
 
 The {{ COMPANY NAME }} Information Security incident Response Plan ("Incident Response Plan," "Incident Management Plan," "Plan," or "IRP") describes the overall plan for responding to information security incidents. The Plan defines the roles and responsibilities of personnel involved, how to manage and characterize incidents, policies, procedures and processes for properly implementing this Plan, and reporting requirements. The goal of of the Incident Response Plan is to detect and react to live security incidents, determine their scope and risk, respond appropriately, communicate the results and risk to all stakeholders, and reduce the likelihood of the incident reoccurring.
 
+## Contact List
+
+| Escalation | Name | Title | Role                                 | Email | Phone |
+| ---------- | ---- | ----- | ------------------------------------ | ----- | ----- |
+| REQUIRED   |      |       | IR Commander                         | TBA   | TBA   |
+| REQUIRED   |      |       | IR Manager                           | TBA   | TBA   |
+| > SEV. 2   |      |       | Senior Leadership                    | TBA   | TBA   |
+| > SEV. 3   |      |       | Executive Leadership                 | TBA   | TBA   |
+| AS NEEDED  |      |       | Legal Team                           | TBA   | TBA   |
+| AS NEEDED  |      |       | Risk Manager                         | TBA   | TBA   |
+| AS NEEDED  |      |       | Privacy Officer                      | TBA   | TBA   |
+| AS NEEDED  |      |       | HR Representative                    | TBA   | TBA   |
+| AS NEEDED  |      |       | Physical Security                    | TBA   | TBA   |
+| AS NEEDED  |      |       | 3rd Party Support                    | TBA   | TBA   |
+| AS NEEDED  |      |       | Cyber Insurance Provider             | TBA   | TBA   |
+| AS NEEDED  |      |       | Regulatory/Government Reporting Body | TBA   | TBA   |
+
+### Escalation Levels
+
+- REQUIRED: Notified first, required on all incidents
+- \> SEV #: Required based on determined severity level
+- AS NEEDED: Involve as required
+
 ## Outline
 
 - Introduction
-- Contact Information (Call Sheet)
+- ~~Contact Information~~
 - Roles and Responsibilities
 - Cyber Security Incident Handling Team (IHT)
 - Chief Information Officer (CIO/CTO)
