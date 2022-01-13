@@ -1,5 +1,13 @@
 # Incident Response Plan
 
+<!--
+COMPANY_NAME=""
+ -->
+
+## Purpose and Scope
+
+The {{ COMPANY NAME }} Information Security incident Response Plan ("Incident Response Plan," "Incident Management Plan," "Plan," or "IRP") describes the overall plan for responding to information security incidents. The Plan defines the roles and responsibilities of personnel involved, how to manage and characterize incidents, policies, procedures and processes for properly implementing this Plan, and reporting requirements. The goal of of the Incident Response Plan is to detect and react to live security incidents, determine their scope and risk, respond appropriately, communicate the results and risk to all stakeholders, and reduce the likelihood of the incident reoccurring.
+
 ## Outline
 
 - Introduction
