@@ -76,7 +76,7 @@ Severity is determined by multiplying impact and urgency to provide a severity s
 
 - ~~Introduction~~
 - ~~Contact Information~~
-- Roles and Responsibilities
+- ~~Roles and Responsibilities~~
 - Cyber Security Incident Handling Team (IHT)
 - Chief Information Officer (CIO/CTO)
 - Cyber Security Incident Response Team (CSIRT)
