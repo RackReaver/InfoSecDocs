@@ -59,6 +59,19 @@ Severity is determined by multiplying impact and urgency to provide a severity s
 - Medium:
 - Low:
 
+## Roles and Responsibilities
+
+| Team                 | Responsibilities                                                                                                                           |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Information Security | Ensure processes, procedures, and checklists are followed and documented in accordance to this plan.                                       |
+| Legal                | Must be consulted prior to any and all communications with non-employees especially those without NDAs in place.                           |
+| Privacy              | Ensure legal, HR, stakeholders and other business units are notified and engaged when required or necessary.                               |
+| Business Units       | Follow and support the efforts of the incident response team to ensure quick recovery from any in progress incidents.                      |
+| Finance              | Assess financial impact and ramifications; including requirements for financial reporting and/or investor notification (w/ Legal).         |
+| Human Resources      | Support and investigate any/all legal approved requests from the IR team to ensure rapid response and containment of incidents.            |
+| Physical Security    | Support the incident response team when investigating any and all policy violations and coordinate with local law enforcement as required. |
+| Marketing/Sales      | Assist legal and privacy as needed on writing and sending outside company communications.                                                  |
+
 ## Outline
 
 - ~~Introduction~~
