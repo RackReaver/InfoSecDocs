@@ -14,8 +14,8 @@ The {{ COMPANY NAME }} Information Security incident Response Plan ("Incident Re
 | ---------- | ---- | ----- | ------------------------------------ | ----- | ----- |
 | REQUIRED   |      |       | IR Commander                         | TBA   | TBA   |
 | REQUIRED   |      |       | IR Manager                           | TBA   | TBA   |
-| > SEV. 2   |      |       | Senior Leadership                    | TBA   | TBA   |
-| > SEV. 3   |      |       | Executive Leadership                 | TBA   | TBA   |
+| > SEV. 6   |      |       | Senior Leadership                    | TBA   | TBA   |
+| > SEV. 9   |      |       | Executive Leadership                 | TBA   | TBA   |
 | AS NEEDED  |      |       | Legal Team                           | TBA   | TBA   |
 | AS NEEDED  |      |       | Risk Manager                         | TBA   | TBA   |
 | AS NEEDED  |      |       | Privacy Officer                      | TBA   | TBA   |
