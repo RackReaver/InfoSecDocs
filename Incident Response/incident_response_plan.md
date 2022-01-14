@@ -45,12 +45,10 @@ Severity is determined by multiplying impact and urgency to provide a severity s
 
 ### Impact Levels
 
-<!-- TODO: Add impact level descriptions -->
-
-- Extensive:
-- Significant:
-- Moderate:
-- Minor:
+- Extensive: All business processes or users are affected
+- Significant: More then five business processes or users are affected
+- Moderate: Less then five business processes or users are affected
+- Minor: No business processes or users are affected
 
 ### Urgency
 
