@@ -31,6 +31,36 @@ The {{ COMPANY NAME }} Information Security incident Response Plan ("Incident Re
 - \> SEV #: Required based on determined severity level
 - AS NEEDED: Involve as required
 
+## Determining Severity
+
+Severity is determined by multiplying impact and urgency to provide a severity score 1-25.
+
+| Impact/Urgency      |    1    |     2      |    3     |      5       |
+| ------------------- | :-----: | :--------: | :------: | :----------: |
+|                     | **Low** | **Medium** | **High** | **Critical** |
+| **5 - Extensive**   |    5    |     10     |    15    |      25      |
+| **3 - Significant** |    3    |     6      |    9     |      15      |
+| **2 - Moderate**    |    2    |     4      |    6     |      10      |
+| **1 - Minor**       |    1    |     2      |    3     |      5       |
+
+### Impact Levels
+
+<!-- TODO: Add impact level descriptions -->
+
+- Extensive:
+- Significant:
+- Moderate:
+- Minor:
+
+### Urgency
+
+<!-- TODO: Add urgency level descriptions -->
+
+- Critical:
+- High:
+- Medium:
+- Low:
+
 ## Outline
 
 - ~~Introduction~~
