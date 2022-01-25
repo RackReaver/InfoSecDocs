@@ -2,9 +2,9 @@
 
 How to manage documents using git (and GitHub which is my remote repo of choice).
 
-| Document Version | Status      | Published Date | Last Reviewed | Next Review |
-| ---------------- | ----------- | -------------- | ------------- | ----------- |
-| 0.1.0            | In Progress | N/A            | N/A           | N/A         |
+| Document Version | Status    | Published Date | Last Reviewed | Next Review |
+| ---------------- | --------- | -------------- | ------------- | ----------- |
+| 0.1.0            | Published | 2022-01-25     | 2022-01-25    | Q1 2023     |
 
 ## Point of Contact Table
 
