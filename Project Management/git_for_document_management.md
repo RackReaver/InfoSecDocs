@@ -4,7 +4,7 @@ How to manage documents using git (and GitHub which is my remote repo of choice)
 
 | Document Version | Status      | Published Date | Last Reviewed | Next Review |
 | ---------------- | ----------- | -------------- | ------------- | ----------- |
-| 0.0.1            | In Progress | N/A            | N/A           | N/A         |
+| 0.1.0            | In Progress | N/A            | N/A           | N/A         |
 
 ## Point of Contact Table
 
