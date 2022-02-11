@@ -58,7 +58,9 @@
 - Product Owner (key stakeholder)
   - Manages and prioritizes the product backlog
 - Scrum Master
+  - Manages daily scrum and ensures backlog follows the teams standards
 - Security Team
+  - Commit to work pre-sprint that is achievable 98% of the time
 
 ## User Stories
 
