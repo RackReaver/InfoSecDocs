@@ -24,7 +24,7 @@
 4. Schedule [sprint review](#sprint-review) meetings
 5. Schedule [sprint retrospective](#sprint-retrospective) meetings
 
-### Schedule
+## Schedule
 
 ```
 ┌──────────────────────┬──────────────────────┬──────────────────────┬──────────────────────┬──────────────────────┐
