@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Implementation Checklist](#implementation-checklist)
+- [Schedule](#schedule)
 - [Roles](#roles)
 - [User Stories](#user-stories)
   - [Examples](#examples)
