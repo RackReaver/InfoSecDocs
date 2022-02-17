@@ -1,5 +1,18 @@
 # SCRUM for Information Security Teams
 
+| Document Version | Status    | Published Date | Last Reviewed | Next Review |
+| ---------------- | --------- | -------------- | ------------- | ----------- |
+| 0.1.0            | Published | 2022-02-17     | 2022-02-17    | Q1 2023     |
+
+## Point of Contact Table
+
+| Role                  | PoC                                         |
+| --------------------- | ------------------------------------------- |
+| Document Owner        | [RackReaver](https://github.com/RackReaver) |
+| Document Controller   | [RackReaver](https://github.com/RackReaver) |
+| Document Creator      | [RackReaver](https://github.com/RackReaver) |
+| Subject Matter Expert | [RackReaver](https://github.com/RackReaver) |
+
 ## Table of Contents
 
 - [Implementation Checklist](#implementation-checklist)
