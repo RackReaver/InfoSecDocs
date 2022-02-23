@@ -78,7 +78,7 @@
 
 ## User Stories
 
-Capture a description of a problem from a user's perspective. For security professionals our users are usually the companies employees or management, user stories should be outlined from their perspective. When writing user stories they should **NOT** be about how to achieve the desired functionality, they should only outline the users pain point.
+Capture a description of a problem from a user's perspective. For security professionals our users are usually the company's employees or management, user stories should be outlined from their perspective. When writing user stories they should **NOT** be about how to achieve the desired functionality, they should only outline the users pain point.
 
 ### Examples
 
