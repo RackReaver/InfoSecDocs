@@ -85,6 +85,7 @@ Capture a description of a problem from a user's perspective. For security profe
 - Submitting phishing emails to security takes to long
 - Send email logs to SIEM for incident response
 - Alert operations whenever a service account gets locked out
+- Provide management with 2022 PCI Attestation of Compliance
 
 ## Product Backlog
 
