@@ -52,12 +52,10 @@ Severity is determined by multiplying impact and urgency to provide a severity s
 
 ### Urgency
 
-<!-- TODO: Add urgency level descriptions -->
-
-- Critical:
-- High:
-- Medium:
-- Low:
+- Critical: Poses an imminent threat to business processes, operations or employees
+- High: Likely a threat to business processes, operations or employees
+- Medium: Little or no threat to business processes, operations or employees
+- Low: No threat to business processes, operations or employees
 
 ## Roles and Responsibilities
 
